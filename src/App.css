@@ -1,0 +1,16 @@
+h1{
+    font-size: xx-large;
+    font-weight: 700;
+    margin: 10px 0px;
+}
+
+h3{
+    font-size: larger;
+}
+
+
+*{
+    font-family: "Nunito", sans-serif !important;
+  font-optical-sizing: auto;    
+  font-style: normal;
+}

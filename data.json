@@ -1,0 +1,1676 @@
+{
+  "status": "OK",
+  "request_id": "d0e8470e-d314-45fe-8bc5-bbaf64b95ec4",
+  "data": {
+    "best_sellers": [
+      {
+        "rank": 1,
+        "asin": "B0CTFRKLC3",
+        "product_title": "SEALIGHT 9005/HB3 LED Bulbs, 20000 LM 9005 Halogen Replacement Kit with Plug and Play, 6000K Xenon White, Fog Light, Pack of 2",
+        "product_price": "32.63",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B0CTFRKLC3",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71qd601vzEL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "Sales rank: 18 (previously unranked)"
+      },
+      {
+        "rank": 2,
+        "asin": "B0CTFM21QM",
+        "product_title": "Chemical Guys MIC110003 Professional Grade Premium Microfiber Towels, Blue (16 Inch x 16 Inch) (Pack of 3) - Safe for Car Wash, Home Cleaning & Pet Drying Cloths",
+        "product_price": "13.49",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CTFM21QM",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71VdBYvg41L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "Sales rank: 158 (previously unranked)"
+      },
+      {
+        "rank": 4,
+        "asin": "B0CT2G91ZC",
+        "product_title": "FAHREN H1 LED Bulbs, 2024 Upgraded Ultra-Bright 20000 Lumens, Cool White 6000K, IP68 Waterproof, Halogen Replacement, Pack of 2",
+        "product_price": "39.99",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B0CT2G91ZC",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71Cfg0Wny+L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "296%Sales rank: 62 (was 246)"
+      },
+      {
+        "rank": 5,
+        "asin": "B0CT4NC98B",
+        "product_title": "Dent Puller,Car Dent Remover Puller,2 Pack Car Dent Puller Kit Handle Lifter,Powerful Car Dent Remover,Suction Cup Dent Puller and Paintless Dent Repair Kit for Car Body Dent,Glass and Tiles",
+        "product_price": "9.98",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CT4NC98B",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/719DnNGwBrL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "266%Sales rank: 380 (was 1,392)"
+      },
+      {
+        "rank": 6,
+        "asin": "B0BNM58WPM",
+        "product_title": "Car Seat Gap Filler Organizer, 2 Pack Multifunctional Car Seat Organizer, Auto Console Side Storage Box with Cup Holders 2 Seat Hooks for Drink, Car Organizer Front Seat for Holding Phone, Sunglasses",
+        "product_price": "24.99",
+        "product_star_rating": "3.8",
+        "product_num_ratings": 385,
+        "product_url": "https://www.amazon.com/dp/B0BNM58WPM",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71220-PZXWL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "162%Sales rank: 262 (was 689)"
+      },
+      {
+        "rank": 7,
+        "asin": "B0CT4QH8Y5",
+        "product_title": "Car Dent Puller,Dent Removal Kit,2 Pack Car Dent Puller Kit Handle Lifter,Powerful Car Dent Remover,Suction Cup Dent Puller and Paintless Dent Repair Kit for Car Body Dent,Glass,Tiles and Mirror",
+        "product_price": "9.98",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CT4QH8Y5",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71fYCm8+LyL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "147%Sales rank: 65 (was 161)"
+      },
+      {
+        "rank": 8,
+        "asin": "B0CMWS56C8",
+        "product_title": "LorSou Dent Puller,3 Pack Car Dent Puller Suction Cup Dent Puller Car Dent Removal Kit Dent Remover Tool and Dent Repair Kit Handle Lifter for Cars Body,Glass,Screen,Tiles Lifting,Objects Moving",
+        "product_price": "15.99",
+        "product_star_rating": "5",
+        "product_num_ratings": 505,
+        "product_url": "https://www.amazon.com/dp/B0CMWS56C8",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71y9y0cBdQL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "137%Sales rank: 239 (was 567)"
+      },
+      {
+        "rank": 9,
+        "asin": "B0CTC3J639",
+        "product_title": "Hafuloky Tire Inflator Portable Air Compressor - 180PSI & 20000mAh Portable Air Pump, Accurate Pressure LCD Display, 3X Fast Inflation for Cars, Bikes & Motorcycle Tires, Balls. P008",
+        "product_price": "79.99",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B0CTC3J639",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71sB9-Lx0rL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "135%Sales rank: 134 (was 315)"
+      },
+      {
+        "rank": 10,
+        "asin": "B089TVMF6J",
+        "product_title": "CERAKOTE® Ceramic Headlight Restoration Kit – Guaranteed To Last As Long As You Own Your Vehicle – Brings Headlights back to Like New Condition - 3 Easy Steps - No Power Tools Required",
+        "product_price": "16.87",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B089TVMF6J",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71Mw-1nqyiL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "50%Sales rank: 6 (was 9)"
+      },
+      {
+        "rank": 11,
+        "asin": "B0CHDNF9ZX",
+        "product_title": "Leather CPR | 2-in-1 Leather Cleaner & Leather Conditioner (18oz) | Cleans, Restores, Conditions, & Protects Furniture, Car Seats, Purses, Shoes, Boots, Saddles/Tack, Jackets, & Auto",
+        "product_price": "37.95",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B0CHDNF9ZX",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/710tFUg-CTL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "48%Sales rank: 68 (was 101)"
+      },
+      {
+        "rank": 12,
+        "asin": "B0CKLCZLGC",
+        "product_title": "JUSTTOP New Driver Magnet for Car, Please Be Patient Student Driver Magnet, New Driver Magnet Safety Warning, Magnetic Reflective Rookie Driver Bumper Sticker (Black&Red)",
+        "product_price": "4.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CKLCZLGC",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71XqaD3LUwL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "47%Sales rank: 103 (was 152)"
+      },
+      {
+        "rank": 13,
+        "asin": "B09HPYMLTS",
+        "product_title": "Lamicall Bike Phone Holder, Motorcycle Phone Mount - Motorcycle Handlebar Cell Phone Clamp, Scooter Phone Clip for iPhone 15 Pro Max/Plus, 14 Pro Max, S9, S10 and More 4.7\" to 6.8\" Smartphones",
+        "product_price": "18.99",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B09HPYMLTS",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71wS-tIjVTL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "45%Sales rank: 59 (was 86)"
+      },
+      {
+        "rank": 14,
+        "asin": "B00F918Z4S",
+        "product_title": "Chemical Guys ACC_300_2 Wonder Wave Durafoam Contoured Large Tire Dressing Applicator Pad, Pack of 2",
+        "product_price": "6.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B00F918Z4S",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/51apbn1v2lL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "44%Sales rank: 268 (was 388)"
+      },
+      {
+        "rank": 15,
+        "asin": "B0CT93RD7S",
+        "product_title": "RENO H4 LED Bulbs, 9003 LED 12000LM 6500K 60W Cool White Dual Beam H4 9003 HB2 Halogen Replacement Fanless In Line Plug and Play, Pack of 2",
+        "product_price": "19.99",
+        "product_star_rating": "4.3",
+        "product_num_ratings": 435,
+        "product_url": "https://www.amazon.com/dp/B0CT93RD7S",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81pJcSvWPzL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "44%Sales rank: 321 (was 463)"
+      },
+      {
+        "rank": 16,
+        "asin": "B0CKYC8KJ3",
+        "product_title": "POWERLIX Leg Sleeve - Best Knee Brace for Leg Pain for Men & Women Knee Support for Running, Basketball, Weightlifting, Gym, Workout, Sports Please Check Sizing Chart (Nude, Small)",
+        "product_price": "19.99",
+        "product_star_rating": "4.3",
+        "product_num_ratings": 435,
+        "product_url": "https://www.amazon.com/dp/B0CKYC8KJ3",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71OQ-Ul7D4L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "41%Sales rank: 123 (was 174)"
+      },
+      {
+        "rank": 17,
+        "asin": "B08QMNR1B6",
+        "product_title": "ComfiLife Gel Enhanced Seat Cushion – Office Chair Cushion – Non-Slip Gel & Memory Foam Coccyx Cushion for Tailbone Pain - Desk Chair Car Seat Cushion Driving - Sciatica & Back Pain Relief (Black)",
+        "product_price": "44.99",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B08QMNR1B6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81IB3IlKVVL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "40%Sales rank: 30 (was 42)"
+      },
+      {
+        "rank": 18,
+        "asin": "B00PJYL9IO",
+        "product_title": "Mr. Heater Fuel Filter for Big Buddy & Portable Buddy F276163",
+        "product_price": "15.58",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B00PJYL9IO",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/51bvJunqoRL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "38%Sales rank: 199 (was 275)"
+      },
+      {
+        "rank": 19,
+        "asin": "B0CLV5QDDF",
+        "product_title": "HOTOR Car Trash Can with Lid - 1 Pack, Mini Essential Car Accessories for Interior, Leakproof Car Garbage Can with 15 Attached Trash Bags, Multipurpose Car Organizers and Storage,Black",
+        "product_price": "9.99",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B0CLV5QDDF",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/51BoOLJNE8L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "37%Sales rank: 79 (was 109)"
+      },
+      {
+        "rank": 20,
+        "asin": "B09PZBR472",
+        "product_title": "Pennzoil High Mileage Synthetic Blend 5W-30 Motor Oil for Vehicles Over 75K Miles (1-Quart, Single-Pack)",
+        "product_price": "9.99",
+        "product_star_rating": "4.8",
+        "product_num_ratings": 485,
+        "product_url": "https://www.amazon.com/dp/B09PZBR472",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71zauCidsqL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "37%Sales rank: 364 (was 500)"
+      },
+      {
+        "rank": 21,
+        "asin": "B0CCT3Q442",
+        "product_title": "Chemical Guys MIC498 Chenille Premium Scratch-Free Microfiber Wash Mitt, Safe for Cars, Trucks, SUVs, RVs & More, (10.9\" x 8\") 1 Pack",
+        "product_price": "17.21",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CCT3Q442",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81QRWq9V-SL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "36%Sales rank: 66 (was 90)"
+      },
+      {
+        "rank": 22,
+        "asin": "B0CRNV7C9G",
+        "product_title": "Gillaway 001B 3000A Car Jump Starter Battery Pack (up to 9.0L Gas and 7.0L Diesel Engine), 12V Car Battery Charger, Jump Box with USB 3.0/Power Bank",
+        "product_price": "79.99",
+        "product_star_rating": "4.3",
+        "product_num_ratings": 435,
+        "product_url": "https://www.amazon.com/dp/B0CRNV7C9G",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71onwwDw0FL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "35%Sales rank: 56 (was 76)"
+      },
+      {
+        "rank": 23,
+        "asin": "B0CG7W8B3C",
+        "product_title": "Invisible Glass 92163 16-Ounce Premium Glass Cleaner and Window Spray for Auto and Home Streak-Free Shine on Windows, Windshields, and Mirrors Residue and Ammonia Free and Tint Safe, Pack of 1",
+        "product_price": "3.82",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B0CG7W8B3C",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/51Ff06oPnpL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "35%Sales rank: 384 (was 519)"
+      },
+      {
+        "rank": 24,
+        "asin": "B0CNR2NQDN",
+        "product_title": "FIXSMITH Microfiber Cleaning Cloth - Pack of 8, Size: 12 x 16 in, Multi-Functional Cleaning Towels, Highly Absorbent Cleaning Rags, Lint-Free, Streak-Free Cleaning Cloths for Car Kitchen Home",
+        "product_price": "4.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CNR2NQDN",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/91Prbpc+IvL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "34%Sales rank: 339 (was 456)"
+      },
+      {
+        "rank": 25,
+        "asin": "B0CSK6TL19",
+        "product_title": "NINEO HB3 LED Bulbs, HB3 60W 12000LM 300% Super Bright H-10 Winless Wireless In-Line Powersports Accessory Lights (Pack of 2)",
+        "product_price": "55.99",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B0CSK6TL19",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81A8uxNc5uL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "32%Sales rank: 196 (was 259)"
+      },
+      {
+        "rank": 26,
+        "asin": "B0CKQMRFCG",
+        "product_title": "LASFIT 194 168 T10 2825 W5W LED Bulb - Amber Yellow - Canbus Error Free, Non-Polarity 400LM Extremely Bright for Side Marker Map Doors, 12-24V (Pack of 2)",
+        "product_price": "9.99",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CKQMRFCG",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61+yKgSMuZL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "32%Sales rank: 250 (was 330)"
+      },
+      {
+        "rank": 27,
+        "asin": "B0BX94VCNT",
+        "product_title": "AOCISKA Car Interior Detailing Brush,Soft Bristle Cleaning Brush Car Detailing Brush Dusting Brush,Car Interior Cleaning Tool,Auto Detail Brush Car Dash Duster Brush (Black)",
+        "product_price": "4.99",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B0BX94VCNT",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/718gbpFsIqL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "31%Sales rank: 92 (was 121)"
+      },
+      {
+        "rank": 28,
+        "asin": "B09RQ6KY72",
+        "product_title": "Leather Honey Complete Leather Care Kit Including Conditioner (8 oz), Cleaner (8 oz) and Two Applicator Cloths for use on Leather Apparel, Furniture, Auto Interiors, Shoes, Bags",
+        "product_price": "35.89",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B09RQ6KY72",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71WFx3ZKQ9L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "30%Sales rank: 256 (was 334)"
+      },
+      {
+        "rank": 29,
+        "asin": "B08QJHXRN6",
+        "product_title": "Nilight 12 Pack 12V Car Add-a-Circuit Fuse Tap Standard Mini Micro2 and Low Profile Fuse Taps 4 Types ATO ATC ATM APM Fuse Holder for Cars Trucks Boats",
+        "product_price": "10.19",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B08QJHXRN6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71-LMMd1AUL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "29%Sales rank: 271 (was 352)"
+      },
+      {
+        "rank": 30,
+        "asin": "B0CT9LCWZF",
+        "product_title": "Meguiar's G10916 Gold Class Rich Leather Cleaner & Conditioner - 15.2 oz.",
+        "product_price": "8.29",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CT9LCWZF",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71F3lyNDKuL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "29%Sales rank: 345 (was 448)"
+      },
+      {
+        "rank": 31,
+        "asin": "B0C7LLHHN4",
+        "product_title": "Drift Car Air Freshener - Wood Air Freshener - Car Odor Eliminator - Amber Scent Starter Kit",
+        "product_price": "12.95",
+        "product_star_rating": "3.8",
+        "product_num_ratings": 385,
+        "product_url": "https://www.amazon.com/dp/B0C7LLHHN4",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61JMV+Qh66L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "29%Sales rank: 47 (was 61)"
+      },
+      {
+        "rank": 32,
+        "asin": "B0BGC1X1DJ",
+        "product_title": "Car Steering Wheel Cover, Anti-Slip, Safety, Soft, Breathable, Heavy Duty, Thick, Full Surround, Sports Style (Black)",
+        "product_price": "15.59",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B0BGC1X1DJ",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61ZrflxMPRL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "29%Sales rank: 252 (was 327)"
+      },
+      {
+        "rank": 33,
+        "asin": "B0CR4BFMV4",
+        "product_title": "Chemical Guys CLD300 Streak Free Glass & Window Cleaner (Works on Glass, Windows, Mirrors, Navigation Screens & More; Car, Truck, SUV and Home Use), Ammonia Free & Safe on Tinted Windows, 128 fl oz",
+        "product_price": "9.97",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CR4BFMV4",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61MdFz+PKhL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "29%Sales rank: 343 (was 443)"
+      },
+      {
+        "rank": 34,
+        "asin": "B0BR62Z9MF",
+        "product_title": "Helteko Backseat Car Organizer, Kick Mats Back Seat Protector with Touch Screen Tablet Holder, Back Seat Organizer for Kids, Travel Accessories with 9 Storage Pockets 2 Pack, Black",
+        "product_price": "25.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0BR62Z9MF",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/91WpBQ+nZGL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "29%Sales rank: 375 (was 484)"
+      },
+      {
+        "rank": 35,
+        "asin": "B01M4RVVX6",
+        "product_title": "Meguiar's G17804 Keep Clear Headlight Coating - 4 Oz Spray",
+        "product_price": "8.97",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B01M4RVVX6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71-X7DuJO2L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "28%Sales rank: 392 (was 502)"
+      },
+      {
+        "rank": 36,
+        "asin": "B0963HVSCS",
+        "product_title": "Frienda 6 Pcs Daisy Flower Air Vent Clip Air Freshener Outlet Clip Car Air Conditioning Clip Charm Car Inter Decor(Black, 2.5 cm, 3 cm, 3.3 cm)",
+        "product_price": "8.99",
+        "product_star_rating": "4.4",
+        "product_num_ratings": 445,
+        "product_url": "https://www.amazon.com/dp/B0963HVSCS",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71hZxQFq59L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "27%Sales rank: 229 (was 292)"
+      },
+      {
+        "rank": 37,
+        "asin": "B07M7N5XR5",
+        "product_title": "Car Hooks Universal Car Vehicle Back Seat Headrest Hanger Holder Hook Microfiber Leather & Stainless Steel for Bag Purse Cloth Drink Grocery (Beige)",
+        "product_price": "7.66",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B07M7N5XR5",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61uzLP6bDvL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "27%Sales rank: 354 (was 451)"
+      },
+      {
+        "rank": 38,
+        "asin": "B0CS42MHX4",
+        "product_title": "3M Headlight Lens Restoration System, 39008, 1 Kit",
+        "product_price": "17.78",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B0CS42MHX4",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/810rWbls8oL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "27%Sales rank: 106 (was 135)"
+      },
+      {
+        "rank": 39,
+        "asin": "B0CK4MX7XK",
+        "product_title": "Aujen Silicone License Plate Frames, 1 Pack Black Side-Opening License Bracket Holder with Easy Installation, License Plate Frame Without Obstruction. Rustproof, Rattle Proof & Weatherproof Universal",
+        "product_price": "6.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CK4MX7XK",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/61AawdAIn0L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "27%Sales rank: 128 (was 163)"
+      },
+      {
+        "rank": 40,
+        "asin": "B0CS3HX6BG",
+        "product_title": "Tire Valve Stem Caps - Tire Air Caps Cover 8 Pack N2 Nitrogen Logo Corrosion Resistant Premium Alloy Universal for Car Truck Motorcycle Bike-Black",
+        "product_price": "3.78",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CS3HX6BG",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71CvGGoQaXL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "27%Sales rank: 159 (was 202)"
+      },
+      {
+        "rank": 41,
+        "asin": "B0C6J2TG18",
+        "product_title": "Yuoyar 2 Packs Sunglasses Holders for Car Visor - Magnetic Leather Sunglasses Holder and Ticket Card Clip - Car Visor Accessories (Black)",
+        "product_price": "9.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0C6J2TG18",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71EK--l5lcL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "26%Sales rank: 118 (was 149)"
+      },
+      {
+        "rank": 42,
+        "asin": "B0B254GR7N",
+        "product_title": "15 Pcs Oil Drain Plug Gasket - 14mm Aluminum Crush Washer Oil Drain Plug - Replacement for Audi/Volkswagen Oil Crush Washer OEM PN N0138157 by AUTOMAJOR",
+        "product_price": "6.95",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0B254GR7N",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81xsqa9LU8L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "26%Sales rank: 245 (was 309)"
+      },
+      {
+        "rank": 43,
+        "asin": "B0CT95JQGL",
+        "product_title": "Dicor 551LSB-1 HAPS-Free NON-Leveling Lap Sealant - 10.3 Oz, Black, Secure, Ideal for RV Roofing, Maintenance, Repair, Appliance Application",
+        "product_price": "9.30",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CT95JQGL",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71tx68yjZVL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 323 (was 406)"
+      },
+      {
+        "rank": 44,
+        "asin": "B06WVL7YSG",
+        "product_title": "Meguiar's Quik Scratch Eraser Kit, Car Scratch Remover for Repairing Surface Blemishes, Car Care Kit with ScratchX, Drill-Mounted Pad, and Microfiber Towel, Multicolour",
+        "product_price": "21.48",
+        "product_star_rating": "4.2",
+        "product_num_ratings": 425,
+        "product_url": "https://www.amazon.com/dp/B06WVL7YSG",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/91G280Pi0WL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 208 (was 261)"
+      },
+      {
+        "rank": 45,
+        "asin": "B0CSDGB1ZY",
+        "product_title": "EPAuto CP285 (CF10285) Premium Cabin Air Filter includes Activated Carbon",
+        "product_price": "11.97",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B0CSDGB1ZY",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/81aAVexwuFL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 71 (was 89)"
+      },
+      {
+        "rank": 46,
+        "asin": "B07STXSB3N",
+        "product_title": "CERAKOTE® Ceramic Trim Coat Kit - Quick Plastic Trim Restorer - Ceramic Coating Black Trim Restoration to Last Over 200 Washes – A Ceramic Coating, Not a Dressing",
+        "product_price": "16.88",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B07STXSB3N",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71jCzZLhUbL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 83 (was 104)"
+      },
+      {
+        "rank": 47,
+        "asin": "B014TZAUU6",
+        "product_title": "EPAuto CP134 (CF10134) Premium Cabin Air Filter includes Activated Carbon",
+        "product_price": "9.66",
+        "product_star_rating": "4.7",
+        "product_num_ratings": 475,
+        "product_url": "https://www.amazon.com/dp/B014TZAUU6",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/91Rr+WI7ykL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 124 (was 155)"
+      },
+      {
+        "rank": 48,
+        "asin": "B0CR6SQFQV",
+        "product_title": "Chemical Guys SPI22516 Total Interior Cleaner & Protectant (Safe on Dash, Leather, Vinyl, Plastics, Trim, Glass, Fabric & More), 16 Fl Oz (Pack of 1) (Black Cherry Scent)",
+        "product_price": "9.99",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0CR6SQFQV",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71oYc3wiN1L._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 8 (was 10)"
+      },
+      {
+        "rank": 49,
+        "asin": "B0CSNMVWLS",
+        "product_title": "AstroAI Tire Inflator Portable Air Compressor Tire Air Pump for Car Tires - Car Accessories, 12V DC Auto Pump with Digital Pressure Gauge, Emergency LED Light for Bicycle, Balloons",
+        "product_price": "31.99",
+        "product_star_rating": "4.5",
+        "product_num_ratings": 455,
+        "product_url": "https://www.amazon.com/dp/B0CSNMVWLS",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71O07JnAYfL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "25%Sales rank: 4 (was 5)"
+      },
+      {
+        "rank": 50,
+        "asin": "B0C37ZWRKC",
+        "product_title": "Turtle Wax 53409 Hybrid Solutions Ceramic Spray Coating, Incredible Shine & Protection for Car Paint, Extreme Water Beading, Safe for Cars, Trucks, Motorcycles, RV's & More, 16 oz.",
+        "product_price": "13.93",
+        "product_star_rating": "4.6",
+        "product_num_ratings": 465,
+        "product_url": "https://www.amazon.com/dp/B0C37ZWRKC",
+        "product_photo": "https://images-na.ssl-images-amazon.com/images/I/71faLLM95hL._AC_UL900_SR900,600_.jpg",
+        "rank_change_label": "24%Sales rank: 241 (was 301)"
+      }
+    ],
+    "request_id": "d37d5276-a50c-43cd-9826-368b00827d88",
+    "reviews": [
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on March 16, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "LaceyLacey",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCJ7XMSPS47VBZUYWHQRNUBFXTA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Beautiful Piece of Very Useful Apple Tech (as Usual)",
+        "review": "I decided to do a big upgrade from my 2013 iPad Mini 2 since it’s no longer supported and is pretty much a paperweight now. The Air 5 is a gorgeous addition to my Apple family. The screen is crisp, the sound quality is excellent and can get pretty loud compared to my Mini 2 and iPhone 12. The metallic blue is stunning and is a nice change from my usual grey and black tech. Kind of bummed I can’t use my dozens of lightning cables, but the USBC charges really fast and the charging block is much appreciated since there was never one included with one the newer iPhones lol. I did go ahead and upgrade to the 256GB since I keep my iPads for so long, it really was the most cost effective option, and running out of space is very frustrating when you get that dreaded notification… especially with such a versatile item like an iPad.I think people need to be more careful when checking out, make sure you are ordering NEW. Don’t click the cheaper option under the more expensive price, it’ll arrive as a used iPad. I ordered a NEW iPad at the full Amazon price (which I noticed fluctuates daily depending on stock, but I got it about $100 less than the Apple Store!) and I received a brand new, sealed iPad Air 5 as I expected and ordered. My only complaint is that I ordered the iPad on 2/20 and it didn’t ship until 3/5 so make sure you’re not in a time crunch when ordering.(Thank you Amazon for shipping iPads to APO/FPO as Apple does not, the exchange has been out of stock for months in store and online, and overseas locally iPads are much more expensive here.)",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R3FWOS5K625Y4V/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 74,
+        "images": [
+          "https://m.media-amazon.com/images/I/513TBTWtABL.jpg",
+          "https://m.media-amazon.com/images/I/61FpEQwg8aL.jpg",
+          "https://m.media-amazon.com/images/I/71hbbY00q2L.jpg",
+          "https://m.media-amazon.com/images/I/81rNd2rgLeL.jpg"
+        ],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Blue",
+          "Size": "256GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on March 31, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Larry",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHN2GQ3PMNGZEJP6HAM4CGM4BC2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Perfect! So fast!",
+        "review": "Fast shipping, and the tablet looks perfect.- iPad Air 5..My iPad 5 has gotten slow after 6 years, so I decided to get an upgrade. I was just expecting same one only faster.  The screen is beautiful, the speed is lightning fast, and with the thinner bezel it’s lots bigger it seems. It transferred all my other ipad and updated in less than 45 minutes.It’s much lighter and has options and apps my old 5th didn’t have. It also has battery of 10 hours, as my old one was 50% after 2 hours.  Great deal.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RADLNQ62FF79/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 23,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Blue",
+          "Size": "64GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on March 2, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "K. Bennett",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGAKRQ4TLUKQQILCEQE2WWZVM2RQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Great Processor, and Touch ID is Back!!!",
+        "review": "I love iPads.  I bought my first one back with the very first generation came out.  Since then I've owned a Gen 3 (original), and Air 2, and now this awesome Air 5.I bought the Air 2 back in December 2015, and have used it regularly ever since.  I finally decided to get a new one after Apple stopped updating the iPadOS for the Air 2.I am looking forward to another seven (or more!) years of good service from this Air 5.  The specs on that M1 chip are awesome - I've used a Mac Mini with an M1 and been really impressed.I have used my church's Air 5 for a while running Playback (Multitracks) with great results.  I plan to use mine to do the same, as well as control my PreSonus AI console.And I am VERY excited to find out that touch ID is back!  The top button is now capable of doing fingerprint ID!  (Not a fan of face ID.)The iPad rocks.  This one looks like it will be a hard rocker!And a big thank you to Amazon for the unexpected sale when I was purchasing.  I was in a big-box store (the blue and yellow one) about to make a purchase and I said to myself, \"Self, you should check Amazon's pricing before you buy.\"  I'm glad I listened to me.  At least this time, anyway.  Some of my other advice can be a bit sketchy at times.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RRY1QUK5T11C6/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 101,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Space Gray",
+          "Size": "256GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on April 5, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Beto Silva (BR)",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTFLC2QE45UAGED6I7LTRZT62FQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Best value for money among Apple tablets",
+        "review": "The iPad Air with the M1 chip is the best Apple tablet for your money. Powerful enough to play heavy games and demanding work platforms with a beautiful laminated screen without expensive and unnesessary addons like 120Hz refresh and FaceID...It is also compatible with both 1st and 2nd gens Apple Pen.I also got a great deal here. I'm very happy.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2NHNYOLZSMTER/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 11,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Blue",
+          "Size": "64GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on March 29, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Cora McKibbin",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFYOGGXHX76KYJYGXB7VIHIEDALQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "worth the money!",
+        "review": "great product and even saved money ordering it from amazon rather than through Apple directly. i do play on it a lot so i’m not sure if the battery goes quick bc of user error or not 😂 also, the screen sometimes doesn’t register when i touch it but that usually happens when i’m playing a game so again, not sure if it’s the ipad or the game lol",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RO21OWVZGECL9/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 12,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Purple",
+          "Size": "64GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on February 24, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Jackeline L. Ramos Martinez",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMW5F5QFL7ZJZMBUKWXJXTTAB7Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Powerful Ipad Air",
+        "review": "I bought this beginning of February, and while Amazon had a delivery date of end of month, this actually arrived about a week sooner! I will compare this with the Ipad Air 4th gen which I also own.- Dimensions, weight and screen size are the same. (I dont really need 120 Hz)- Screen brightness appears to be a little bit brighter on this Ipad Air 5.- Speaker quality appears to be almost similar between the two, at least for me. Both are good.- 5th gen has more ram (8gb vs 4gb)- The M1 is more poweful than the A14.- However maybe because of the more capable processor, battery life is a little better on the Ipad Air 4.- This Ipad Air 5 Touch ID appears to be more responsive and faster than the Ipad Air 4, also the button itself appears to be more sturdier.I always use my devices with a case so I cant find out if the back of this device is “fragile” or not. Also I havent tested other features such as transfer speeds (write and read speeds), wifi signal speeds, and the cameras quality (for that I use my phone).Overall I find this Ipad Air 5 a good option even better than the Ipad Pro 11 even if that one has better chipset, screen and other features. If you have the extra cash then you can go for the Ipad Pro 11, or wait another year maybe for the M3 Ipad Air 6.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R1HQXZ4JCSCSEL/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 115,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Purple",
+          "Size": "256GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on April 1, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Billionairebrat",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUVITDI6UDXBSTZZRWV3O64B3OQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "A wonderful purchase!!",
+        "review": "I love my new iPad Air. This was a great purchase and I definitely recommend if you don't want to buy directly through the Apple website. Especially for faster shipping and delivery. I haven't had any issues with my iPad Air works great and I also bought the pencil to go with it!",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R8X4DK8CDK4J9/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 4,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Purple",
+          "Size": "64GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on April 5, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Kathy Yoder",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDZ2QJZIBRIS6ZY6PISBCUIPHGA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "So easy to set up.",
+        "review": "I am not a “Techie” person, This I-Pad was so easy to set up. Basically you just set your I phone next to it and it pairs everything quickly.Love the ease of use and the graphics.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/RK7K8B33FGL1G/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": null,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Purple",
+          "Size": "64GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on March 31, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Amazon CustomerAmazon Customer",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH77Y3JCH7W7HMLCDVMKLYCFNW2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Love it!",
+        "review": "Love it! I have zero regrets getting this iPad. I originally got 10th gen and immediately switched. This one is soo nice! I will say the battery doesn't die \"too\" fast but it also goes down somwhat quick. Other than that, I do recommend. I saw no flaws on the product at all and everything works as it should.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R2XPE5LHNTGNEG/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 9,
+        "images": ["https://m.media-amazon.com/images/I/71MH9mT6EML.jpg"],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Purple",
+          "Size": "256GB"
+        },
+        "videoUrl": null
+      },
+      {
+        "stars": 5,
+        "date": "Reviewed in the United States 🇺🇸 on March 25, 2023",
+        "verified_purchase": true,
+        "manufacturer_replied": false,
+        "username": "Dubs",
+        "userUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXB3QQGRX5GIKFWRZGGQGUZ4LWA/ref=cm_cr_arp_d_gw_btm?ie=UTF8",
+        "title": "Much to heavy for elderly women to handle.  Need to return product.  Please help!!!",
+        "review": "It is a beautiful and excellent product but it is much ti heavy for me to handle so I need to return it.  Would you assist me in return process.  I have been waiting for your reply.  Called Amazon and was told to return product to you after talking with you.  Please let me hear immediately.",
+        "reviewUrl": "https://www.amazon.com/gp/customer-reviews/R30QRPIFJLRUVV/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B09V3JJT5D",
+        "total_found_helpful": 3,
+        "images": [],
+        "variation": {
+          "Style": "WiFi",
+          "Color": "Blue",
+          "Size": "256GB"
+        },
+        "videoUrl": null
+      }
+    ],
+    "pagination": [
+      "https://www.amazon.com/2022-Apple-iPad-10-9-inch-Wi-Fi/product-reviews/B09V3JJT5D/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&pageNumber=2"
+    ],
+    "review_product": {
+      "asin": "B07ZPKBL9V",
+      "product_title": "Apple iPhone 11, 64GB, RED - Fully Unlocked (Renewed)",
+      "product_price": "$217.59",
+      "product_original_price": null,
+      "currency": "USD",
+      "country": "US",
+      "product_star_rating": "4.3",
+      "product_num_ratings": 48208,
+      "product_url": "https://www.amazon.com/dp/B07ZPKBL9V",
+      "product_photo": "https://m.media-amazon.com/images/I/41iMRb9fHIL.jpg",
+      "product_num_offers": null,
+      "product_availability": "In Stock",
+      "is_best_seller": false,
+      "is_amazon_choice": false,
+      "climate_pledge_friendly": true,
+      "sales_volume": "1K+ bought in past month",
+      "about_product": [
+        "This phone is unlocked and compatible with any carrier of choice on GSM and CDMA networks (e.g. AT&T, T-Mobile, Sprint, Verizon, US Cellular, Cricket, Metro, Tracfone, Mint Mobile, etc.).",
+        "Tested for battery health and guaranteed to have a minimum battery capacity of 80%.",
+        "Successfully passed a full diagnostic test which ensures like-new functionality and removal of any prior-user personal information.",
+        "The device does not come with headphones or a SIM card. It does include a generic (Mfi certified) charger and charging cable.",
+        "Inspected and guaranteed to have minimal cosmetic damage, which is not noticeable when the device is held at arm's length."
+      ],
+      "product_description": "The iPhone 11 features a 6.1-inch LCD display that Apple calls a \"Liquid Retina HD Display.\" It features a 1792 x 828 resolution at 326ppi, a 1400:1 contrast ratio, 625 nits max brightness, True Tone support for adjusting the white balance to the ambient lighting, and wide color support for true-to-life colors. The iPhone 11 is available in six different colors: White, Black, Yellow, (PRODUCT)RED, Purple, and Green.",
+      "product_information": {
+        "Product Dimensions": "7 x 5 x 4 inches",
+        "Item Weight": "6.7 ounces",
+
+        "Item model number": "iPhone 11",
+        "Batteries": "1 Lithium Ion batteries required. (included)",
+        "Best Sellers Rank": "#2 in Amazon Renewed (See Top 100 in Amazon Renewed)   #2 in Renewed Smartphones   #79 in Climate Pledge Friendly: Electronics",
+        "OS": "iOS 16",
+        "RAM": "4 GB",
+        "Wireless communication technologies": "Cellular",
+        "Connectivity technologies": "Bluetooth, Wi-Fi, USB, NFC",
+        "GPS": "True",
+        "Special features": "Built-In GPS",
+        "Other display features": "Wireless",
+        "Human Interface Input": "Touchscreen",
+        "Other camera features": "Front, Rear",
+        "Form Factor": "Smartphone",
+        "Color": "Red",
+        "Battery Power Rating": "3600",
+        "Whats in the box": "SIM Tray Ejector",
+        "Manufacturer": "Apple Computer",
+        "Date First Available": "October 28, 2019",
+        "Memory Storage Capacity": "64 GB",
+        "Standing screen display size": "6.1 Inches",
+        "Ram Memory Installed Size": "4 GB",
+        "Weight": "0.19 Kilograms"
+      },
+      "rating_distribution": {
+        "1": "10%",
+        "2": "3%",
+        "3": "5%",
+        "4": "13%",
+        "5": "69%"
+      },
+      "product_photos": [
+        "https://m.media-amazon.com/images/I/41iMRb9fHIL.jpg",
+        "https://m.media-amazon.com/images/I/31sNDIGO6XL.jpg",
+        "https://m.media-amazon.com/images/I/41Sa-e84mbL.jpg",
+        "https://m.media-amazon.com/images/I/31bc2TNTaZL.jpg",
+        "https://m.media-amazon.com/images/I/41xNME9Y1AL.jpg",
+        "https://m.media-amazon.com/images/I/41IJ0fzfqoL.jpg",
+        "https://m.media-amazon.com/images/I/41iMRb9fHIL.jpg"
+      ],
+      "product_details": {
+        "Brand": "Apple",
+        "Model Name": "iPhone 11",
+        "Wireless Carrier": "Unlocked",
+        "Operating System": "iOS 16",
+        "Cellular Technology": "GSM, EDGE, UMTS, HSPA, HSDPA, CDMA, EV-DO, LTE",
+        "Memory Storage Capacity": "64 GB",
+        "Connectivity Technology": "Bluetooth, Wi-Fi, USB, NFC",
+        "Color": "Red",
+        "Screen Size": "6.1 Inches",
+        "Wireless network technology": "GSM, CDMA"
+      },
+      "customers_say": "Customers like the value and ease of use of the cellular phone. For example, they mention it's a smart and cost-effective choice for those seeking a high-quality phone at a budget price. That said, some complain about the sound quality. Opinions are mixed on charging, security, battery life, scratches, and quality.",
+      "review_aspects": {
+        "Value": "POSITIVE",
+        "Ease of use": "POSITIVE",
+        "Quality": "MIXED",
+        "Battery life": "MIXED",
+        "Scratches": "MIXED",
+        "Charging": "MIXED",
+        "Security": "MIXED",
+        "Sound quality": "NEGATIVE"
+      },
+      "category_path": [
+        {
+          "id": "2335752011",
+          "name": "Cell Phones & Accessories",
+          "link": "https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=2335752011"
+        },
+        {
+          "id": "7072561011",
+          "name": "Cell Phones",
+          "link": "https://www.amazon.com/cell-phone-devices/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7072561011"
+        }
+      ],
+      "product_variations": {
+        "size": [
+          {
+            "asin": "B07ZPKBL9V",
+            "value": "64GB",
+            "is_available": false
+          },
+          {
+            "asin": "B07ZPKG5TG",
+            "value": "128GB",
+            "is_available": true
+          },
+          {
+            "asin": "B07ZPJQ413",
+            "value": "256GB",
+            "is_available": true
+          }
+        ],
+        "color": [
+          {
+            "asin": "B07ZPKN6YR",
+            "photo": "https://m.media-amazon.com/images/I/41GWVG6QBCL._SS36_.jpg",
+            "is_available": true
+          },
+          {
+            "asin": "B07ZPHSHPG",
+            "photo": "https://m.media-amazon.com/images/I/41hCDxCdQ5L._SS36_.jpg",
+            "is_available": true
+          },
+          {
+            "asin": "B07ZPKF8RG",
+            "photo": "https://m.media-amazon.com/images/I/414bhOEGiuL._SS36_.jpg",
+            "is_available": true
+          },
+          {
+            "asin": "B07ZPKBL9V",
+            "photo": "https://m.media-amazon.com/images/I/41iMRb9fHIL._SS36_.jpg",
+            "is_available": false
+          },
+          {
+            "asin": "B07ZPJW2XH",
+            "photo": "https://m.media-amazon.com/images/I/21fd2Lvn5NL._SS36_.jpg",
+            "is_available": true
+          },
+          {
+            "asin": "B07ZPJ8YZ6",
+            "photo": "https://m.media-amazon.com/images/I/411vw3p0RKL._SS36_.jpg",
+            "is_available": true
+          }
+        ]
+      }
+    },
+    "deals": [
+      {
+        "deal_id": "e28357c8",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Dog Food from Amazon Brands",
+        "deal_photo": "https://m.media-amazon.com/images/I/417Wz+2c5bL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/e28357c8?showVariations=true",
+        "deal_starts_at": "2024-01-24T20:00:00.000Z",
+        "deal_ends_at": "2024-02-01T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "11.27",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "48.29",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 22% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "a2df7ba3",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "New Samsung Galaxy S24 with Large Storage Upgrade and Amazon eGift Card",
+        "deal_photo": "https://m.media-amazon.com/images/I/51uFLAxF58L.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/s/browse/?ie=UTF8&node=116898115011",
+        "canonical_deal_url": "https://www.amazon.com/deal/a2df7ba3",
+        "deal_starts_at": "2024-01-17T18:00:00.000Z",
+        "deal_ends_at": "2024-01-31T07:59:59.000Z",
+        "deal_badge": "Deal",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": false
+      },
+      {
+        "deal_id": "9fb85ba6",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Dresses, Shoes, and more from the Luxury Stores Designer Sale",
+        "deal_photo": "https://m.media-amazon.com/images/I/71dcPZ2MbOL.png",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/s?i=luxury&rh=n%3A120392460011&s=date-desc-rank&fs=true&ds=v1%3Al3NOGCanPkOQHdsY41Plz3DhY%2BXJ6ZdIC5jPcf2AzNE&qid=1700520157&",
+        "canonical_deal_url": "https://www.amazon.com/deal/9fb85ba6",
+        "deal_starts_at": "2023-11-28T08:00:00.000Z",
+        "deal_ends_at": "2024-01-25T07:59:59.000Z",
+        "deal_badge": "Deal",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": false
+      },
+      {
+        "deal_id": "87c3ace0",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "P&G: Buy $80, Get $20 Amazon Credit. Includes Household, Health, Baby and Beauty Eligible Brands.",
+        "deal_photo": "https://m.media-amazon.com/images/I/61NHdW+dwYL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/stores/page/D87C99C4-C107-4EF8-9BFE-9DD25802AE1E",
+        "canonical_deal_url": "https://www.amazon.com/deal/87c3ace0",
+        "deal_starts_at": "2024-01-09T12:00:00.000Z",
+        "deal_ends_at": "2024-02-04T07:59:59.000Z",
+        "deal_badge": "Deal",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": false
+      },
+      {
+        "deal_id": "28c43df6",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Amazon Fire TV 4K UHD smart TVs",
+        "deal_photo": "https://m.media-amazon.com/images/I/41YuCIrxq-L.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/28c43df6?showVariations=true",
+        "deal_starts_at": "2024-01-19T17:00:00.000Z",
+        "deal_ends_at": "2024-02-12T16:55:00.000Z",
+        "deal_price": {
+          "amount": "299.99",
+          "currency": "USD"
+        },
+        "list_price": {
+          "amount": "449.99",
+          "currency": "USD"
+        },
+        "deal_badge": "33% off",
+        "savings_percentage": 33,
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "30b90224",
+        "deal_type": "DEAL_OF_THE_DAY",
+        "deal_title": "MaryRuth Organics Multivitamins and Multiminerals",
+        "deal_photo": "https://m.media-amazon.com/images/I/91Oy5vgmKBL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/30b90224?showVariations=true",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-01-27T07:55:00.000Z",
+        "deal_price_min": {
+          "amount": "11.95",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "59.96",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 41% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "96bf133d",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Protein & Sports Nutrition from Cellucor, Muscle Milk, and Muscle Tech and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/618hqPHy+jL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/96bf133d?showVariations=true",
+        "deal_starts_at": "2024-01-14T08:00:00.000Z",
+        "deal_ends_at": "2024-01-28T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "4.89",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "119.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 40% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "08a36406",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Echo Show 8 (3rd Gen)",
+        "deal_photo": "https://m.media-amazon.com/images/I/41yfBQ2Jg9L.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/All-New-Echo-Show-8/dp/B0BLS3Y632",
+        "canonical_deal_url": "https://www.amazon.com/deal/08a36406",
+        "deal_starts_at": "2024-01-21T05:00:00.000Z",
+        "deal_ends_at": "2024-01-28T04:55:00.000Z",
+        "deal_price": {
+          "amount": "89.99",
+          "currency": "USD"
+        },
+        "list_price": {
+          "amount": "149.99",
+          "currency": "USD"
+        },
+        "deal_badge": "40% off",
+        "savings_percentage": 40,
+        "type": "SINGLE_ITEM",
+        "product_asin": "B0BLS3Y632",
+        "is_prime": true
+      },
+      {
+        "deal_id": "54b70ca7",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "TP-Link Deco Mesh WiFi",
+        "deal_photo": "https://m.media-amazon.com/images/I/31hLLl3KBDL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/54b70ca7?showVariations=true",
+        "deal_starts_at": "2024-01-23T08:00:00.000Z",
+        "deal_ends_at": "2024-02-21T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "129.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "469.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 32% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "47ad9a1d",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Dreo Heaters, Fans and Humidifiers",
+        "deal_photo": "https://m.media-amazon.com/images/I/31yRmbpaniL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/47ad9a1d?showVariations=true",
+        "deal_starts_at": "2024-01-24T08:00:00.000Z",
+        "deal_ends_at": "2024-02-03T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "35.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "143.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 13% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "87e65655",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "LG QHD Gaming Monitors",
+        "deal_photo": "https://m.media-amazon.com/images/I/41bkzJ4oKdL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/87e65655?showVariations=true",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-02-06T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "546.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "549.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 27% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "b74215e3",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Vitamins & Supplements from SmartyPants, Garden of Life, Nature Made and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/51b87GdhvIL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/b74215e3?showVariations=true&moreDeals=e2d6f55d",
+        "deal_starts_at": "2024-01-18T08:00:00.000Z",
+        "deal_ends_at": "2024-02-01T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "3.23",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "55.26",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 49% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "c0bf3014",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "iRobot Roomba Vacuums and Braava Mops",
+        "deal_photo": "https://m.media-amazon.com/images/I/51yhsVxTxQL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/c0bf3014?showVariations=true",
+        "deal_starts_at": "2024-01-14T08:00:00.000Z",
+        "deal_ends_at": "2024-01-28T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "159.97",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "984.46",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 50% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "93199d03",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "CGK Unlimited 4PC Luxury Bed Sheets Set",
+        "deal_photo": "https://m.media-amazon.com/images/I/31exUyinccL._SY500_.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/Queen-Size-Sheet-Set-Breathable/dp/B09JVVKNQR",
+        "canonical_deal_url": "https://www.amazon.com/deal/93199d03",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-01-29T07:45:00.000Z",
+        "deal_price_min": {
+          "amount": "15.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "38.24",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 48% off",
+        "type": "SINGLE_ITEM",
+        "product_asin": "B09JVVKNQR",
+        "is_prime": true
+      },
+      {
+        "deal_id": "e2e2b80e",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Select Furniture from Christopher Knight, Flash and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/51PK41GkgiL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/e2e2b80e?showVariations=true",
+        "deal_starts_at": "2024-01-18T16:00:00.000Z",
+        "deal_ends_at": "2024-02-01T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "10.9",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "825.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 51% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "2fd2b36d",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Amazon Fire Kids Tablets",
+        "deal_photo": "https://m.media-amazon.com/images/I/61KVjhqnVRL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/2fd2b36d?showVariations=true",
+        "deal_starts_at": "2024-01-14T17:00:00.000Z",
+        "deal_ends_at": "2024-01-29T05:00:00.000Z",
+        "deal_price_min": {
+          "amount": "54.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "159.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 42% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "d0675149",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Waterpik Aquairus",
+        "deal_photo": "https://m.media-amazon.com/images/I/31Bfzl8w8qL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/d0675149?showVariations=true",
+        "deal_starts_at": "2024-01-23T08:00:00.000Z",
+        "deal_ends_at": "2024-01-28T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "59.38",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "59.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 41% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "a9c4d387",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Cap Barbell Fitness Equipment and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/51NmdD7V5NL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/a9c4d387?showVariations=true",
+        "deal_starts_at": "2024-01-18T11:00:00.000Z",
+        "deal_ends_at": "2024-01-30T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "8.49",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "127.48",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 31% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "903eca5b",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Govee RGBIC Floor Lamp, LED Corner Lamp Compatible with Alexa, Smart Modern Floor Lamp with Music Sync",
+        "deal_photo": "https://m.media-amazon.com/images/I/41ps3Lt+zuL._SY500_.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/Govee-Modern-Assistant-Million-Bedroom/dp/B099WTN2TR",
+        "canonical_deal_url": "https://www.amazon.com/deal/903eca5b",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-01-29T07:45:00.000Z",
+        "deal_price": {
+          "amount": "59.99",
+          "currency": "USD"
+        },
+        "list_price": {
+          "amount": "99.99",
+          "currency": "USD"
+        },
+        "deal_badge": "40% off",
+        "savings_percentage": 40,
+        "type": "SINGLE_ITEM",
+        "product_asin": "B099WTN2TR",
+        "is_prime": true
+      },
+      {
+        "deal_id": "4567ca4e",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Amazon Fire Tablets",
+        "deal_photo": "https://m.media-amazon.com/images/I/51WFE6-FeEL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/4567ca4e?moreDeals=6500dd9e,5084ae68",
+        "deal_starts_at": "2024-01-14T17:00:00.000Z",
+        "deal_ends_at": "2024-01-29T05:00:00.000Z",
+        "deal_price_min": {
+          "amount": "64.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "104.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 42% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "e128693f",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Watches from Fossil, Timex, Citizen, and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/41oCWJUITwL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/e128693f?searchAlias=fashion",
+        "deal_starts_at": "2023-12-31T08:00:00.000Z",
+        "deal_ends_at": "2024-02-15T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "13.0",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "1170.0",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 69% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "8eac798f",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "JBL True Wireless Headphones",
+        "deal_photo": "https://m.media-amazon.com/images/I/314SeozaUUL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/8eac798f?showVariations=true",
+        "deal_starts_at": "2024-01-15T08:00:00.000Z",
+        "deal_ends_at": "2024-02-05T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "29.95",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "59.95",
+          "currency": "USD"
+        },
+        "deal_badge": "40% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "5f2ea495",
+        "deal_type": "DEAL_OF_THE_DAY",
+        "deal_title": "Reverse Osmosis System from Waterdrop",
+        "deal_photo": "https://m.media-amazon.com/images/I/41YrP+DnhYL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/5f2ea495?showVariations=true",
+        "deal_starts_at": "2024-01-20T08:00:00.000Z",
+        "deal_ends_at": "2024-01-27T07:55:00.000Z",
+        "deal_price_min": {
+          "amount": "13.5",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "699.0",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 46% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "1a003538",
+        "deal_type": "DEAL_OF_THE_DAY",
+        "deal_title": "Bluetti Solar Generators",
+        "deal_photo": "https://m.media-amazon.com/images/I/41ToPOBfOML.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/1a003538?showVariations=true",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-01-29T07:55:00.000Z",
+        "deal_price_min": {
+          "amount": "169.0",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "6079.0",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 35% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "2d922f0b",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "GHOST WHEY Protein Powder, Whey Protein Blend -Post Workout Fitness & Nutrition Shakes, Smoothies, Baking & Cooking",
+        "deal_photo": "https://m.media-amazon.com/images/I/41pnjSDgTML._SY500_.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/Ghost-100-Protein-Powder-Chips/dp/B07VPKSD15",
+        "canonical_deal_url": "https://www.amazon.com/deal/2d922f0b",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-01-29T07:45:00.000Z",
+        "deal_price_min": {
+          "amount": "33.71",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "33.75",
+          "currency": "USD"
+        },
+        "deal_badge": "25% off",
+        "type": "SINGLE_ITEM",
+        "product_asin": "B07VPKSD15",
+        "is_prime": true
+      },
+      {
+        "deal_id": "6858a9e1",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Ashley Furniture Living Room, Mattresses and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/41h3UWlKCrL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/6858a9e1?showVariations=true",
+        "deal_starts_at": "2024-01-18T16:00:00.000Z",
+        "deal_ends_at": "2024-02-01T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "53.16",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "1259.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 45% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "0e446574",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Select Mattresses and Bedroom Furniture from Novilla, Best Price Mattress and more",
+        "deal_photo": "https://m.media-amazon.com/images/I/41lCud4TufS.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/0e446574?showVariations=true",
+        "deal_starts_at": "2024-01-18T16:00:00.000Z",
+        "deal_ends_at": "2024-02-01T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "92.23",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "455.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 25% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "9e282ee5",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Certified Refurbished Ring Doorbells, Cameras and Alarms",
+        "deal_photo": "https://m.media-amazon.com/images/I/21edSJ0cGEL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/9e282ee5",
+        "deal_starts_at": "2024-01-18T05:00:00.000Z",
+        "deal_ends_at": "2024-01-29T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "43.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "249.99",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 26% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "0a7c1b1c",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Intel 12th Gen Processors",
+        "deal_photo": "https://m.media-amazon.com/images/I/41FfgUII7KL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/stores/page/preview?isSlp=1&isPreview=1&asins=B09FXKHN7M%2CB09FXDLX95%2CB09FXFJW2F%2CB09FWYK5M9%2CB09FX4D72T%2CB09FXNVDBJ",
+        "canonical_deal_url": "https://www.amazon.com/deal/0a7c1b1c",
+        "deal_starts_at": "2024-01-22T08:00:00.000Z",
+        "deal_ends_at": "2024-01-27T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "153.99",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "324.49",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 51% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      },
+      {
+        "deal_id": "e085189c",
+        "deal_type": "BEST_DEAL",
+        "deal_title": "Save on Braun products",
+        "deal_photo": "https://m.media-amazon.com/images/I/81ap2gt0LYL.jpg",
+        "deal_state": "AVAILABLE",
+        "deal_url": "https://www.amazon.com/deal/e085189c?showVariations=true",
+        "deal_starts_at": "2024-01-14T08:00:00.000Z",
+        "deal_ends_at": "2024-01-28T07:59:59.000Z",
+        "deal_price_min": {
+          "amount": "67.94",
+          "currency": "USD"
+        },
+        "deal_price_max": {
+          "amount": "349.94",
+          "currency": "USD"
+        },
+        "deal_badge": "Up to 24% off",
+        "type": "MULTI_ITEM",
+        "product_asin": null,
+        "is_prime": true
+      }
+    ],
+    "total_deals": 22934,
+    "category": [
+      {
+        "id": "electronics",
+        "name": "Electronics & Photo"
+      },
+      {
+        "id": "mobile-apps",
+        "name": "Apps & Games"
+      },
+      {
+        "id": "appliances",
+        "name": "Large Appliances"
+      },
+      {
+        "id": "audible",
+        "name": "Audible Audiobooks"
+      },
+      {
+        "id": "stripbooks",
+        "name": "Books"
+      },
+      {
+        "id": "automotive",
+        "name": "Car & Motorbike"
+      },
+      {
+        "id": "popular",
+        "name": "CDs & Vinyl"
+      },
+      {
+        "id": "classical",
+        "name": "Classical Music"
+      },
+      {
+        "id": "computers",
+        "name": "Computers & Accessories"
+      },
+      {
+        "id": "digital-music",
+        "name": "Digital Music"
+      },
+      {
+        "id": "diy",
+        "name": "DIY & Tools"
+      },
+      {
+        "id": "dvd",
+        "name": "DVD & Blu-ray"
+      },
+      {
+        "id": "outdoor",
+        "name": "Garden & Outdoors"
+      },
+      {
+        "id": "gift-cards",
+        "name": "Gift Cards"
+      },
+      {
+        "id": "handmade",
+        "name": "Handmade"
+      },
+      {
+        "id": "drugstore",
+        "name": "Health & Personal Care"
+      },
+      {
+        "id": "local-services",
+        "name": "Home & Business Services"
+      },
+      {
+        "id": "kitchen",
+        "name": "Home & Kitchen"
+      },
+      {
+        "id": "industrial",
+        "name": "Industrial & Scientific"
+      },
+      {
+        "id": "digital-text",
+        "name": "Kindle Store"
+      },
+
+      {
+        "id": "fashion-luggage",
+        "name": "Luggage and travel gear"
+      },
+      {
+        "id": "luxury",
+        "name": "Luxury Stores"
+      },
+      {
+        "id": "mi",
+        "name": "Musical Instruments & DJ Equipment"
+      },
+      {
+        "id": "videogames",
+        "name": "PC & Video Games"
+      },
+      {
+        "id": "pets",
+        "name": "Pet Supplies"
+      },
+      {
+        "id": "luxury-beauty",
+        "name": "Premium Beauty"
+      },
+      {
+        "id": "sports",
+        "name": "Sports & Outdoors"
+      },
+      {
+        "id": "office-products",
+        "name": "Stationery & Office Supplies"
+      },
+      {
+        "id": "toys",
+        "name": "Toys & Games"
+      },
+      {
+        "id": "aps",
+        "name": "All Departments"
+      }
+    ]
+  }
+}
